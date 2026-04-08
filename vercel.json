@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/sekerip.lua",
+      "source": "/laserpiwpiw",
       "destination": "/api/checker.js"
     }
   ]
